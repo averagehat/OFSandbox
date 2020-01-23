@@ -1,0 +1,9 @@
+[submodule "apps/myApps/c_o_n_j_u_r"]
+	path = apps/recur/c_o_n_j_u_r
+	url = https://github.com/averagehat/c_o_n_j_u_r
+[submodule "addons/ofxVideoArtTools"]
+	path = addons/ofxVideoArtTools
+	url = https://github.com/averagehat/ofxVideoArtTools
+[submodule "addons/ofxAutoReloadedShader"]
+	path = addons/ofxAutoReloadedShader
+	url = https://github.com/averagehat/ofxAutoReloadedShader
